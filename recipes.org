@@ -1,0 +1,42 @@
+
+* Gold rush
+** Tags
+- shaken
+** Ingredients
+- 2 oz. bourbon
+- 3/4 oz. honey syrup
+- 3/8-1/2 oz. juice from fresh lemon
+** Directions
+Shake all ingredients well with ice. Strain into old fashioned glass with single large ice cube.
+** Notes
+- Honey syrup is made by combining 3 parts honey to 1 part water and mixing over medium heat until dissolved.
+- The traditional recipe calls for 3/4 oz. lemon juice. I feel that this overpowers the drink.
+- It's not recommended to try shaking with egg white, as in a sour. The honey syrup provides enough thickening and smoothing.
+
+* Toronto
+** Tags
+- stirred
+** Ingredients
+- 2 oz. Canadian rye whiskey
+- 1/4 oz. Fernet-Branca
+- 1/4 oz. simple syrup
+- 2 dashes Angostura bitters
+*** Garnish
+orange twist
+** Directions
+Stir all ingredients in a mixing glass with ice. Strain into a Coupe glass and garnish with an orange twist.
+
+* New Toronto
+** Tags
+- stirred
+** Ingredients
+- 1 1/2 oz. bourbon
+- 1/2 oz. sweet vermouth
+- 1 tsp. Fernet-Branca
+- 2 tsp. honey syrup
+*** Garnish
+lemon twist
+** Directions
+Combine ingredients in mixing glass and stir with ice until well-chilled. Strain into chilled glass and garnish with a lemon twist.
+** Notes
+A remix of the [[*Toronto][Toronto]].
