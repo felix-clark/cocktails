@@ -40,3 +40,20 @@ lemon twist
 Combine ingredients in mixing glass and stir with ice until well-chilled. Strain into chilled glass and garnish with a lemon twist.
 ** Notes
 A remix of the [[*Toronto][Toronto]].
+
+* Un-smashed Maple Bourbon
+** Tags
+- built
+** Ingredients
+- 2 oz. bourbon
+- 1/2 oz. lemon juice
+- 1/4 oz. orange juice
+- 1/2 oz. maple syrup
+- 4 dashes Angostura bitters
+*** Garnish
+orange twist
+** Directions
+Mix all ingredients and pour over a large ice cube in an old-fashioned glass.
+** Notes
+- A personal modification of the [[https://www.foodandwine.com/recipes/maple-bourbon-smash][Maple-Bourbon Smash]]
+- Perhaps this is a candidate for the addition of a pure acid? (citric, ascorbic, etc.)
