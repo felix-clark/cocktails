@@ -74,3 +74,19 @@ Mix all ingredients and pour over a large ice cube in an old-fashioned glass.
 Swirl absinthe in a chilled glass to coat the inside thoroughly and dump excess. Pour remaining ingredients into a mixing tin with ice and stir until chilled. Strain mixture into the absinthe-coated glass and garnish with lemon twist.
 ** Notes
 - Absinthe can be replaced with Herbsaint or an anisette like pastis.
+
+* Negronino
+** Tags
+- stirred
+** Ingredients
+- 20 ml (3/4 oz.) Amaro Nonino
+- 10 cl (3/8 oz.) Campari
+- 25 ml (1 oz.) gin
+- 25 ml (1 oz.) Carpano Antica Formula vermouth
+*** Garnish
+- grapefruit twist
+** Directions
+Stir all ingredients over ice and strain into a rocks glass with fresh ice.
+** Notes
+- Volumes in imperial units are scaled up
+- If grapefruit isn't available, it can be replaced with orange (or possibly lemon).
