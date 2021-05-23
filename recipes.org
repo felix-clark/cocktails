@@ -63,6 +63,7 @@ Mix all ingredients and pour over a large ice cube in an old-fashioned glass.
 * Sazerac
 ** Tags
 - stirred
+- winter
 ** Ingredients
 - 2 oz. rye whiskey
 - 1/4 oz. simple syrup
@@ -90,3 +91,17 @@ Stir all ingredients over ice and strain into a rocks glass with fresh ice.
 ** Notes
 - Volumes in imperial units are scaled up
 - If grapefruit isn't available, it can be replaced with orange (or possibly lemon).
+
+* Last Word
+** Tags
+- shaken
+- summer
+** Ingredients
+- 1 oz. gin
+- 7/8 oz. lime juice
+- 3/4 oz. Luxardo Maraschino
+- 3/4 oz. green Chartreuse
+** Directions
+Combine ingredients in a shaker with ice and shake thoroughly. Strain into a coupe glass.
+** Notes
+The original recipe calls for equal parts of all ingredients. This modification is a little less sweet and a little stronger.
