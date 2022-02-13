@@ -105,3 +105,16 @@ Stir all ingredients over ice and strain into a rocks glass with fresh ice.
 Combine ingredients in a shaker with ice and shake thoroughly. Strain into a coupe glass.
 ** Notes
 The original recipe calls for equal parts of all ingredients. This modification is a little less sweet and a little stronger.
+
+* Paper Plane
+** Tags
+- shaken
+** Ingredients
+- 3/4 oz. bourbon
+- 3/4 oz. Aperol
+- 3/4 oz. Amaro Nonino
+- 3/4 oz. lemon juice
+** Directions
+Combine ingredients in a shaker with ice and shake until well-chilled, but do not over-shake or the result will be too watered down. Strain into a coupe glass.
+** Notes
+A darker remix of the [[*Last Word][Last Word]].
