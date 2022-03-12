@@ -109,11 +109,14 @@ Stir all ingredients over ice and strain into a rocks glass with fresh ice.
 ** Tags
 - shaken
 - summer
+- equal parts
 ** Ingredients
 - 1 oz. gin
 - 7/8 oz. lime juice
 - 3/4 oz. Luxardo Maraschino
 - 3/4 oz. green Chartreuse
+*** Garnish
+- Maraschino cherries
 ** Directions
 Combine ingredients in a shaker with ice and shake thoroughly. Strain into a coupe glass.
 ** Notes
@@ -122,6 +125,7 @@ The original recipe calls for equal parts of all ingredients. This modification 
 * Paper Plane
 ** Tags
 - shaken
+- equal parts
 ** Ingredients
 - 3/4 oz. bourbon
 - 3/4 oz. Aperol
