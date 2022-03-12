@@ -131,3 +131,17 @@ The original recipe calls for equal parts of all ingredients. This modification 
 Combine ingredients in a shaker with ice and shake until well-chilled, but do not over-shake or the result will be too watered down. Strain into a coupe glass.
 ** Notes
 A darker remix of the [[*Last Word][Last Word]].
+
+* Naked and Famous
+** Tags
+- shaken
+- equal parts
+** Ingredients
+- 3/4 oz. mezcal
+- 3/4 oz. Aperol
+- 3/4 oz. yellow Chartreuse
+- 3/4 oz. lime juice
+** Directions
+Shake all ingredients with ice and strain into chilled glass.
+** Notes
+Green Chartreuse can replace Yellow if need be.
