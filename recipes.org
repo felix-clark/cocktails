@@ -163,3 +163,20 @@ Green Chartreuse can replace Yellow if need be.
 Shake all ingredients with ice and strain into an glass with ice.
 ** Notes
 A spicy variant of the Bee's Knees
+
+* A La Louisiane
+** Ingredients
+- 2 oz. rye whiskey
+- 3/4 oz. sweet vermouth
+- 1/2 oz. Benedictine
+- 3 dashes absinthe
+- 3 dashes Peychaud's bitters
+*** Garnish
+Maraschino cherry
+** Directions
+Combine ingredients into mixing glass with ice and stir until well-chilled.
+   Strain into chille coupe glass.
+** Notes
+- Also known as the De La Louisiane
+- Recipe from [[https://www.liquor.com/recipes/a-la-louisiane/][liquor.com]]
+
